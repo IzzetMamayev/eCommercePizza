@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Services.deps.json
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Services.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\ref\eCommercePizza.Services.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Services.pdb
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Entities.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Repositories.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Repositories.pdb
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\bin\Debug\net5.0\eCommercePizza.Entities.pdb
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.AssemblyInfo.cs
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.csproj.CopyComplete
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\ref\eCommercePizza.Services.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Services\obj\Debug\net5.0\eCommercePizza.Services.pdb

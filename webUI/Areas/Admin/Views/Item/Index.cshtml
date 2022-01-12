@@ -1,0 +1,61 @@
+﻿@model IEnumerable<eCommercePizza.Entities.Item>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>
+    <span class="float-right"><a asp-action="Create" class="btn btn-outline-success">Create New </a></span>
+    <br />
+</h1>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th class="text-center">
+                Images
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+                <td>
+                    <img src="@item.ImageUrl" class="rounded mx-auto d-block w-50">
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new {  id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id, url = item.ImageUrl })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

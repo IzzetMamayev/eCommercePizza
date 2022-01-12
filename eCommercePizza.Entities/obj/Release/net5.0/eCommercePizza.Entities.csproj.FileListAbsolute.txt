@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\bin\Release\net5.0\eCommercePizza.Entities.deps.json
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\bin\Release\net5.0\eCommercePizza.Entities.runtimeconfig.json
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\bin\Release\net5.0\eCommercePizza.Entities.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\bin\Release\net5.0\eCommercePizza.Entities.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\bin\Release\net5.0\ref\eCommercePizza.Entities.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\bin\Release\net5.0\eCommercePizza.Entities.pdb
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.AssemblyInfo.cs
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\ref\eCommercePizza.Entities.dll
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.pdb
+C:\Users\DELL\source\repos\eCommercePizza\eCommercePizza.Entities\obj\Release\net5.0\eCommercePizza.Entities.genruntimeconfig.cache
